@@ -1,1 +1,1 @@
-https://Darika12.github.io/cv/cv
+https://Darika12.github.io/CV/cv
