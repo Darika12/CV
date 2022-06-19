@@ -17,3 +17,13 @@
 - VSCode
 - HTML
 - Git
+- Figma
+
+## Code Example
+
+```
+<ul>
+<li>CSS<li>
+<li>HTML<li>
+<ul>
+```
