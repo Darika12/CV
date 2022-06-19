@@ -27,3 +27,18 @@
 <li>HTML<li>
 <ul>
 ```
+
+## Experience
+
+I work in sales, in a management position. But I am very attracted to the field of IT and design.
+At the moment I'm studying at the Jyldyz Academy at the Frontend Developer.
+
+## Education
+
+- Bishkek Humanitarian University
+- Courses:
+  - [JyldyzAcademy](https://linktr.ee/jyldyzacademy2020) "Front-end Developer" - currently taking HTML/CSS courses.
+
+## English
+
+- Elementary
